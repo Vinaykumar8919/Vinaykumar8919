@@ -1,2 +1,2 @@
 
-# Hi, I'm vinaykumar 👋🏾 👩🏾‍
+# Hi, I'm vinaykumar 👋🏾 
