@@ -8,7 +8,7 @@
     code();
     }
 
-<center>
+<!-- <center>
 
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=VinayKumar8919&show_icons=true&theme=dark"
@@ -20,3 +20,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Vinaykumar8919&show_icons=true" />
 </center>
+ -->
