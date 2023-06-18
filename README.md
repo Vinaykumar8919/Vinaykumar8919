@@ -2,11 +2,7 @@
 # Hi, I'm vinaykumar 👋🏾 
 
 
-## while(alive) {
-    eat();
-    //sleep();
-    code();
-    }
+
 
 <!-- <center>
 
