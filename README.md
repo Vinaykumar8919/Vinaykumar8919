@@ -2,7 +2,7 @@
 
 # Vinaykumar's GitHub Profile
 
-![Vinaykumar's Profile](dp.jpeg)
+![Vinaykumar's Profile](dp.jpg)
 
 ## 👨🏾‍💻 About Me
 
